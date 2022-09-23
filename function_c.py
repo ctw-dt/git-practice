@@ -4,6 +4,7 @@ def merge_lists(list_a, list_b):
         without any duplicate elements.
 
     """
+    print('sss')
     print(" merge merge merge! ")
 
 
