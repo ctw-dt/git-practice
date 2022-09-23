@@ -5,6 +5,8 @@ def merge_lists(list_a, list_b):
 
     """
     print(" changed ")
+    print('sss')
+    print(" merge merge merge! ")
 
 
 if __name__ == "__main__":
